@@ -36,7 +36,7 @@ nav {
 /* Banner Styles Start */
 
 #banner-container {
-  background-image: url("/assets/Hero-bg.png");
+  background-image: url("../assets/Hero-bg.png");
   height: 652px;
   margin-top: 50px;
 }
@@ -244,7 +244,7 @@ nav {
   margin-left: 105px;
   border: 1px solid;
   margin-bottom: 50px;
-  background-image: url("/assets/handshake.jpg");
+  background-image: url("../assets/handshake.jpg");
   border-radius: 8px;
   color: #ffffff;
   background-color: rgba(0, 0, 0, 0.6);
