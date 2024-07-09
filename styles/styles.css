@@ -159,3 +159,79 @@ nav {
   margin-left: 30px;
   border-radius: 8px;
 }
+
+/* my-current-target styles start */
+
+#my-current-target-container {
+  width: 1140px;
+  height: 500px;
+  margin-left: 105px;
+}
+#my-current-target-title {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 900;
+}
+#my-current-target-description {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 25px;
+}
+
+#all-tech-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.tech-1 {
+  width: 300px;
+  height: 299px;
+  margin-top: 50px;
+  background-color: #ff8888;
+  padding: 5px;
+
+  border-radius: 8px;
+}
+
+.tech-img {
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.tech-title {
+  font-size: 24px;
+  font-weight: 900;
+  text-align: center;
+  margin-top: 10px;
+}
+.tech-description {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 10px;
+}
+.tech-2 {
+  width: 300px;
+  height: 299px;
+  margin-top: 50px;
+  background-color: #b3b3ff;
+  border-radius: 8px;
+  padding: 5px;
+}
+.tech-3 {
+  width: 300px;
+  height: 299px;
+  margin-top: 50px;
+  background-color: #eac250;
+  border-radius: 8px;
+  padding: 5px;
+}
+.learn-more {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 900;
+  text-decoration: underline;
+}
