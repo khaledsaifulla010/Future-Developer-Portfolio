@@ -3,11 +3,29 @@
   margin: 0;
   padding: 0;
   max-width: 1320px;
+  font-family: "Azeret Mono", monospace;
 }
 body {
-  font-family: "Azeret Mono", monospace;
   border: 2px solid #000000;
-  height: 500px;
+  height: 100vh;
   margin-top: 50px;
   margin-left: 45px;
+}
+
+/* nav styles start */
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#download-btn {
+  width: 244px;
+  height: 57px;
+  color: #0d1321;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: white;
+  border-radius: 8px;
 }
