@@ -75,7 +75,7 @@ nav {
 
 #why-web-container {
   width: 1140px;
-  height: 1393px;
+  height: 1193px;
   margin-top: 60px;
   margin-left: 105px;
 }
@@ -133,4 +133,29 @@ nav {
   margin-top: 25px;
   border-radius: 8px;
   background-color: #ffffff;
+}
+
+/* My Inspiration Styles start */
+#my-inspiration-container {
+  width: 1140px;
+  height: 775px;
+  margin-left: 105px;
+}
+
+#my-inspiration-title {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 900;
+}
+#my-inspiration-description {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 25px;
+}
+
+#inspiration-video {
+  margin-top: 40px;
+  margin-left: 30px;
+  border-radius: 8px;
 }
